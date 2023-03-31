@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square blue-color"
+      icon: "fab fa-linkedin" style={{color: "#1068d5",}}
       url: "https://www.linkedin.com/in/saam-rasool-72b00917a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
