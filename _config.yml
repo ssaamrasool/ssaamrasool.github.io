@@ -111,7 +111,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-inbox"
+      icon: "fas fa-fw fa-inbox"
       url: "saam.rasool@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -120,13 +120,13 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin" style={{color: "#1068d5",}}
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/saam-rasool-72b00917a/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-github"
       url: "https://github.com/ssaamrasool"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
