@@ -124,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 50px;
-  height: 50px;
+  width: 42px;
+  height: 42px;
 
   @include breakpoint($large) {
     display: block;
@@ -179,7 +179,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
    
 
   @include breakpoint($large) {
