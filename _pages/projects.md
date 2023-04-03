@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Projects
+layout: archive
 permalink: /projects/
+title: "Projects"
+author_profile: true
 ---
 
-## __[Modeling The Economics of the Low Temperature Na-S Flow Battery](https://www.apam.columbia.edu/faculty/siu-wai-chan)__
+## __[Modeling The Economics of the Low Temperature Na-S Flow Battery](https://www.apam.columbia.edu)__
