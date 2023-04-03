@@ -87,7 +87,8 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 12em;
     font-weight: 700;
+    font-size: $type-size-5;
   }
 }
