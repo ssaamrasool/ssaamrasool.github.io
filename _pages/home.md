@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /
 title: "Hello everyone!"
 author_profile: true
