@@ -15,7 +15,6 @@ Welcome to my website. My name is Saam and I'm a senior undergraduate studying m
     <img src="https://www.greatbirdpics.com/wp-content/uploads/2023/04/MG_5428@0.5x-1.png" alt="bird of the day" width="300" height="260" style="float:none;">
   </div>
   <br>
-  <br>
 </h6>
   
 
