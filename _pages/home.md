@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: single
 permalink: /
 title: "Hello everyone!"
 author_profile: true
