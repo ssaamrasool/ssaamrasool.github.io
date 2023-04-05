@@ -18,4 +18,4 @@ Welcome to my website. My name is Saam and I'm a senior undergraduate studying m
 </h6>
   
 
-My other interests include playing chess, rock climbing, baking, and birdwatching. I also learned how to hackeysack with one of my friends from Columbia this year (and we got pretty good at it too)! I will be near Boston for the foreseeable future, and am looking forward to spending time with friends and family, and maybe even contributing more to this site.
+My other interests include playing chess, video games, rock climbing, and birdwatching. I also learned how to hackeysack with one of my friends from Columbia this year (and we got pretty good at it too)! I will be near Boston for the foreseeable future, and am looking forward to spending time with friends and family, and maybe even contributing more to this site.
