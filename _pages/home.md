@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: category
 permalink: /
 title: "Hello everyone!"
 author_profile: true
