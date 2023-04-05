@@ -6,7 +6,7 @@ title: "Hello everyone!"
 author_profile: true
 ---
 
-Welcome to my website. My name is Saam Rasool and I'm a senior at Columbia studying materials science. Two years ago, I transferred to Columbia from Colby college, where I majored in mathematics, as part of a dual degree program. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other important things.
+Welcome to my website. My name is Saam and I'm a senior at Columbia studying materials science. Two years ago, I transferred to Columbia from Colby college, where I majored in mathematics, as part of a dual degree program. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other important things.
 
 ![botd](https://www.greatbirdpics.com/wp-content/uploads/2023/04/MG_5428@0.5x-1.png "bird of the day")
 
