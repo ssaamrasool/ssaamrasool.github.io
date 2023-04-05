@@ -114,6 +114,7 @@ body {
   li,
   dl {
     font-size: 0.8em;
+    font-family: $serif;
   }
 
   /* paragraph indents */
@@ -224,7 +225,7 @@ body {
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: $type-size-3;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
