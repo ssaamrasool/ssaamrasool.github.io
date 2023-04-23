@@ -10,4 +10,4 @@ values:
   author_profile: true
 ---
 
-## __[Modeling The Economics of the Low Temperature Na-S Flow Battery](https://www.apam.columbia.edu/faculty/siu-wai-chan)__
+## __[Modeling The Economics of the Low Temperature Na-S Flow Battery](https://ssaamrasool.github.io/projects/DarlingModel)__
