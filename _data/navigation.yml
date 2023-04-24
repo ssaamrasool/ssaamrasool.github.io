@@ -1,12 +1,22 @@
-# main links
+# main links links
 main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
-    url: https://ssaamrasool.github.io/CV.pdf
-  - title: "Projects"
-    url: https://ssaamrasool.github.io/projects/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
