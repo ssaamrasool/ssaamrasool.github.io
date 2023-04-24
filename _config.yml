@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Syed Saam Rasool"
-  avatar           : "/images/bio-pic.jpg"
+  avatar           : "bio-pic.jpg"
   bio              : "Fourth-year undergraduate materials science student at Columbia University"
   location         : "Brookline, MA"
   employer         :
