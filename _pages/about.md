@@ -12,7 +12,7 @@ Welcome to my website. My name is Saam and I'm a senior undergraduate studying m
 
 <h6>
   <div style = "position:relative; left:0px; top:2px;">
-    <img src="https://rockies.audubon.org/sites/default/files/styles/hero_image/public/aud_violet-green-swallow_200616-52_nape_photo-mick-thompson_hero.jpg?itok=kYLbS9ZF" alt="bird banner" width="700" height="250" style="float:none;">
+    <img src="https://rockies.audubon.org/sites/default/files/styles/hero_image/public/aud_violet-green-swallow_200616-52_nape_photo-mick-thompson_hero.jpg?itok=kYLbS9ZF" alt="bird banner" width="800" height="270" style="float:none;">
   </div>
   <br>
 </h6>
