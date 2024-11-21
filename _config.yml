@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Syed Saam Rasool"
   avatar           : "bio-pic.jpg"
-  bio              : "Fourth-year undergraduate materials science student at Columbia University"
-  location         : "Brookline, MA"
+  bio              : "First-year graduate student in materials science at UMN"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "saam.rasool@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "saam-rasool-72b00917a/"
-  orcid            : 
+  orcid            : "0009-0009-3604-165X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
