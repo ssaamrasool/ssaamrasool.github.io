@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. My name is Saam and I'm a PhD candidate in materials science and engineering at the University of Minnesota. From 2021-2023 I studied materials science at Columbia University, and from 2018-2021, mathematics at Colby College. Post-graduation, from 2023-2024, I worked at two small startups in the Boston area: VEIR and Metal Fuels. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other things.
+Welcome to my website. My name is Saam and I'm a PhD candidate in materials science and engineering at the University of Minnesota. I am advised by professor Chris Leighton and my research involves the design of spintronic devices. From 2021-2023 I studied materials science at Columbia University, and from 2018-2021, mathematics at Colby College. Post-graduation, from 2023-2024, I worked at two small startups in the Boston area: VEIR and Metal Fuels. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other things.
 
 
 <h6>
