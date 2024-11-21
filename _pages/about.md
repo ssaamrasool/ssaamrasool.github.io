@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. My name is Saam and I'm a recent college grad working as an engineer in Boston. From 2021-2023 I studied materials science at Columbia University, and from 2018-2021, mathematics at Colby College. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other important things.
+Welcome to my website. My name is Saam and I'm a PhD candidate in materials science and engineering at the University of Minnesota. From 2021-2023 I studied materials science at Columbia University, and from 2018-2021, mathematics at Colby College. Post-graduation, from 2023-2024, I worked at two small startups in the Boston area: VEIR and Metal Fuels. I'm most interested in the energy industry and the materials that make it possible, but am nearly as interested in everything else in the world, so this site won't be solely dedicated to engineering. I created this site to give myself and others easier access to some of the work I've done over the past few years, my CV, and other things.
 
 
 <h6>
@@ -18,4 +18,4 @@ Welcome to my website. My name is Saam and I'm a recent college grad working as 
 </h6>
   
 
-My other interests include playing chess (among other board games), music, and video games, climbing, and birdwatching. I will be in Boston for the foreseeable future, and am looking forward to spending time with friends and family!
+My other interests include playing music, board games, video games, birdwatching, and cooking. I'll be in Minneapolis for the foreseeable future, and I'm excited to explore my new city! If you have food recommendations please send them my way...
