@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Saam Rasool"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Saam Rasool"
 description              : &description "personal description"
 url                      : https://ssaamrasool.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
